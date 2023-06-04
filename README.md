@@ -125,7 +125,9 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 ## HOME PAGE:
-![Screenshot (28)](https://github.com/harinidq/mathserver/assets/113497680/1281637f-cd37-4282-8193-f4ad0ce99798)
+![image](https://github.com/harinidq/mathserver/assets/113497680/ccc3fab6-ccdd-4d80-8afa-3cf1ed897547)
+
+![image](https://github.com/harinidq/mathserver/assets/113497680/be846de0-0ea9-4294-95b7-145451d15289)
 
 
 ## RESULT:
